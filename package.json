@@ -1,0 +1,15 @@
+{
+  "name": "how-to-create-bitcoin-wallet-dat-correctly",
+  "version": "1.0.0",
+  "description": "How to create Bitcoin wallet.dat correctly",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": "https://github.com/an-ivannikov-dev/how-to-create-bitcoin-wallet-dat-correctly.git",
+  "author": "Aleksandr Ivannikov <a.n.ivannikov@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "bitcore-mnemonic": "^8.16.2"
+  }
+}
